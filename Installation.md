@@ -184,6 +184,7 @@ screen -S swarm
 ```
 
 ## For WSL and VPS
+Also for Restarting the Node
 ```bash
 python3 -m venv .venv
 ```
